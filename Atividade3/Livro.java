@@ -1,6 +1,6 @@
 package Atividade3;
 
-class Livro {
+public class Livro {
 	private String autor;
     private String titulo;
 
