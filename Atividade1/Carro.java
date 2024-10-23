@@ -1,6 +1,6 @@
 package Atividade1;
 
-class Carro extends Brinquedo {
+public class Carro extends Brinquedo {
 
 	public Carro() {
 		super("Amarela", "Camaro", "Esportivo", 120);
