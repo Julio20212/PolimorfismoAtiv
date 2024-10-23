@@ -1,6 +1,6 @@
 package Atividade3;
 
-class Biblioteca {
+public class Biblioteca {
 	private String nome; 
 
     public Biblioteca(String nome) {
